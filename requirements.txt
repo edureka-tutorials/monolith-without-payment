@@ -2,6 +2,6 @@ flask
 passlib
 flask-mysqldb
 Flask-WTF
-pyjwt
+pyjwt==1.7.1
 requests
 pyyaml
